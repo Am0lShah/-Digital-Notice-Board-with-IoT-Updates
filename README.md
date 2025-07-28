@@ -1,5 +1,7 @@
 Check out more project : https://dipak-sahani-portfolio.netlify.app/
 
+Check out Final Working Video file : This is how the actual Digital notice board screen going to work, After booting of Raspberry Pi automatically it Connect to Wifi then Runs  autoamtically Main Window on browser.
+
 # Digital Notice Board with IoT Updates
 
 A modern digital notice board system with IoT integration for real-time updates and notifications.
